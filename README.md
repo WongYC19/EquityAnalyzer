@@ -3,20 +3,21 @@ To find investment opportunity and trading signal through fundamental analysis a
 
 # Issue Tracker
 
-<ol>
+
 1. Fundamental Analysis \n
   a) To collect financial statement for both Annual and Quarter frequency
   b) To generate the overview of company performance using statistical score: 
-  </ol>
-    i) Beneish M Score, 
-    ii) Ohlson O Score, 
-    iii) Altman Z Score, 
-    iv) Piotroski F Score
-    v) EV / EBIT
-    vi) Net Cash
-    vii) Market Capitalization
-    viii) 52W Range vs Current Price
-    
+  
+  <ol>        
+    i) Altman Z Score, 
+    ii) Ohlson O Score (Extended from Z-Score, Likelihood to default in 2 years)
+    iii) Beneish M Score (8) - Profit Manipulation, 
+    iv) Piotroski F Score (Determine strength of a firm's financial position, avoid value traps)
+    v) EBIT / EV (Alternative to PE ratio, take into account of debt)
+    vi) Net Cash (Net cash position of a company)
+    vii) Market Capitalization (Market value of company outstanding shares)
+    viii) 52W Range vs Current Price (Position of share price over last 52 weeks)
+  </ol>  
   c) To collect the commodity price and foreign exchange
     i) Rubberwood
     ii) Resin
