@@ -17,8 +17,8 @@ To find investment opportunity and trading signal through fundamental analysis a
                 <li> Market Capitalization (Market value of company outstanding shares)
                 <li> 52W Range vs Current Price (Position of share price over last 52 weeks)
             </ol> 
-      
-        <li> To collect the commodity price and foreign exchange <br>    
+        </ol>
+        <li> To collect the commodity price and foreign exchange    
             <ol>
                 <li> Rubberwood
                 <li> Resin
@@ -34,9 +34,9 @@ To find investment opportunity and trading signal through fundamental analysis a
                 <li> Corn
                 <li> Steel
                 <li> Fearix
-          </ol>
+            </ol>
   
-        <li> To update the existing data file rather than replacing it <br>
+        <li> To update the existing data file rather than replacing it
     </ol>
     
     <li> <b> Technical Analysis </b> <br>  
