@@ -21,6 +21,7 @@ To find investment opportunity and trading signal through fundamental analysis a
   </ol> 
   
   <li> c) To collect the commodity price and foreign exchange
+  <ol>
     <li> Rubberwood
     <li> Resin
     <li> Gold
@@ -35,22 +36,27 @@ To find investment opportunity and trading signal through fundamental analysis a
     <li> Corn
     <li> Steel
     <li> Fearix
-    
+  </ol>
+  
   <li> d) To update the existing data file rather than replacing it
  </ol>
  
 <li> Technical Analysis
-  <li> To collect historical data from yahoo API
-  <li> Create and define technical indicator
-  <li> Modelling
-    <li> Classification - Trading signal (Buy or sell?)
-    <li> Regression - Entry Price / Stop loss (Buy/Sell at what price?)
+  <ol>
+    <li> To collect historical data from yahoo API
+    <li> Create and define technical indicator
+    <li> Modelling
+      <ol>
+        <li> Classification - Trading signal (Buy or sell?)
+        <li> Regression - Entry Price / Stop loss (Buy/Sell at what price?)
+      </ol>
+  </ol>
 
 <li> Natural Language Processing (NLP) - TBC
   <li> Footnote preparation / Remarks
-    - To collect and summarize information from quarter report / analyst report 
+    <ol> <li> - To collect and summarize information from quarter report / analyst report </ol>
   b) News / Forum
-   - Sentiment Analysis 
+    <ol> <li> - Sentiment Analysis </ol>
    
 4. User Interface
   a) Table (Statement, historical share price)
