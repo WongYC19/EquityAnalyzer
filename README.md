@@ -3,7 +3,7 @@ To find investment opportunity and trading signal through fundamental analysis a
 
 # Issue Tracker
 
-
+<ol>
 1. Fundamental Analysis \n
   a) To collect financial statement for both Annual and Quarter frequency
   b) To generate the overview of company performance using statistical score: 
@@ -19,20 +19,20 @@ To find investment opportunity and trading signal through fundamental analysis a
     <li> viii) 52W Range vs Current Price (Position of share price over last 52 weeks)
   </ol>  
   c) To collect the commodity price and foreign exchange
-    i) Rubberwood
-    ii) Resin
-    iii) Gold
-    iv) Lumber
-    v) USD/MYR
-    vi) Baltic dry
-    vii) Crude oil
-    viii) Palm oil
-    ix) Lumber
-    x) Sugar
-    xi) Poultry
-    xii) Corn
-    xiii) Steel
-    xiv) Fearix
+    <li>i) Rubberwood
+    <li>ii) Resin
+    <li>iii) Gold
+    <li>iv) Lumber
+    <li>v) USD/MYR
+    <li>vi) Baltic dry
+    <li>vii) Crude oil
+    <li>viii) Palm oil
+    <li>ix) Lumber
+    <li>x) Sugar
+    <li>xi) Poultry
+    <li>xii) Corn
+    <li>xiii) Steel
+    <li>xiv) Fearix
     
   d) To update the existing data file rather than replacing it
 
@@ -53,3 +53,4 @@ To find investment opportunity and trading signal through fundamental analysis a
   a) Table (Statement, historical share price)
   b) Graph (Historical Share price and the technical indicator)
   c) Trading signal (Search and filter function)
+</ol>  
