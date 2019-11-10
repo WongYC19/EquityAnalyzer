@@ -9,8 +9,8 @@ To find investment opportunity and trading signal through fundamental analysis a
   <ol>
     <li> To collect financial statement for both Annual and Quarter frequency
     <li> To generate the overview of company performance using statistical score:     
-    
-    <ol> <br>
+    <br>
+    <ol>
       <li> Altman Z Score, 
       <li> Ohlson O Score (Extended from Z-Score, Likelihood to default in 2 years)
       <li> Beneish M Score (8) - Profit Manipulation, 
