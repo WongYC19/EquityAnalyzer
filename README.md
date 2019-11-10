@@ -4,8 +4,8 @@ To find investment opportunity and trading signal through fundamental analysis a
 # Issue Tracker
 <ol>
     <li> <b> Fundamental Analysis </b>
-    <br/>
     <ol>
+    <br/>
         <li> To collect financial statement for both Annual and Quarter frequency
         <li> To generate the overview of company performance using statistical score:
         <ol>
@@ -48,17 +48,17 @@ To find investment opportunity and trading signal through fundamental analysis a
                 <li> Regression - Entry Price / Stop loss (Buy/Sell at what price?) <br/>
             </ol>
     </ol> 
-    <li> <b> Natural Language Processing (NLP) - TBC </b>
-    <br/>
+    <li> <b> Natural Language Processing (NLP) - TBC </b>    
     <ol>
+    <br/>
         <li> Footnote preparation / Remarks
             - To collect and summarize information from quarter report / analyst report
         <li> News / Forum
             - Sentiment Analysis <br/>
     </ol>       
-    <li> <b> User Interface </b>
-    <br/>        
+    <li> <b> User Interface </b>    
     <ol>
+    <br/>        
         <li> Table (Statement, historical share price)
         <li> Graph (Historical Share price and the technical indicator)
         <li> Trading signal (Search and filter function)
