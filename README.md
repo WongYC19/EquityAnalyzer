@@ -17,7 +17,7 @@ To find investment opportunity and trading signal through fundamental analysis a
             <li> Market Capitalization (Market value of company outstanding shares)
             <li> 52W Range vs Current Price (Position of share price over last 52 weeks) 
         </ol>        
-        <li> <br/> To collect the commodity price and foreign exchange        
+        <li> To collect the commodity price and foreign exchange        
             <ol>
                 <li> Rubberwood
                 <li> Resin
@@ -34,26 +34,26 @@ To find investment opportunity and trading signal through fundamental analysis a
                 <li> Steel
                 <li> Fearix
             </ol>          
-        <li> <br/> To update the existing data file rather than replacing it 
+        <li> <br/> To update the existing data file rather than replacing it <br/>
     </ol>    
-    <li> <b> <br/> Technical Analysis </b> <br/>
+    <li> <b> Technical Analysis </b> <br/>
     <ol>
         <li> To collect historical data from yahoo API
         <li> Create and define technical indicator        
         <li> Modelling        
             <ol>
                 <li> Classification - Trading signal (Buy or sell?)
-                <li> Regression - Entry Price / Stop loss (Buy/Sell at what price?) <br>
+                <li> Regression - Entry Price / Stop loss (Buy/Sell at what price?) <br/>
             </ol>
     </ol> 
-    <li> <b> <br/> Natural Language Processing (NLP) - TBC </b> <br/>
+    <li> <b> Natural Language Processing (NLP) - TBC </b> <br/>
     <ol>
         <li> Footnote preparation / Remarks
             - To collect and summarize information from quarter report / analyst report
         <li> News / Forum
-            - Sentiment Analysis <br>
+            - Sentiment Analysis <br/>
     </ol>       
-    <li> <b> <br/> User Interface </b> <br/>
+    <li> <b> User Interface </b> <br/>
     <ol>
         <li> Table (Statement, historical share price)
         <li> Graph (Historical Share price and the technical indicator)
