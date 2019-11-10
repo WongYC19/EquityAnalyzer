@@ -6,8 +6,8 @@ To find investment opportunity and trading signal through fundamental analysis a
 <ol>
 1. Fundamental Analysis
   <ol>
-  a) To collect financial statement for both Annual and Quarter frequency
-  b) To generate the overview of company performance using statistical score: 
+  <li> a) To collect financial statement for both Annual and Quarter frequency
+  <li> b) To generate the overview of company performance using statistical score: 
   
   <ol>        
     <li> i) Altman Z Score, 
@@ -19,7 +19,7 @@ To find investment opportunity and trading signal through fundamental analysis a
     <li> vii) Market Capitalization (Market value of company outstanding shares)
     <li> viii) 52W Range vs Current Price (Position of share price over last 52 weeks)
   </ol>  
-  c) To collect the commodity price and foreign exchange
+  <li> c) To collect the commodity price and foreign exchange
     <li>i) Rubberwood
     <li>ii) Resin
     <li>iii) Gold
@@ -35,7 +35,7 @@ To find investment opportunity and trading signal through fundamental analysis a
     <li>xiii) Steel
     <li>xiv) Fearix
     
-  d) To update the existing data file rather than replacing it
+  <li> d) To update the existing data file rather than replacing it
  </ol>
 2. Technical Analysis
   a) To collect historical data from yahoo API
