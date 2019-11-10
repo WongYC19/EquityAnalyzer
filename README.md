@@ -6,8 +6,8 @@ To find investment opportunity and trading signal through fundamental analysis a
 <ol>
 <li> Fundamental Analysis
   <ol>
-  <li> a) To collect financial statement for both Annual and Quarter frequency
-  <li> b) To generate the overview of company performance using statistical score: 
+  <li> To collect financial statement for both Annual and Quarter frequency
+  <li> To generate the overview of company performance using statistical score: 
   
   <ol>        
     <li> Altman Z Score, 
@@ -20,7 +20,7 @@ To find investment opportunity and trading signal through fundamental analysis a
     <li> 52W Range vs Current Price (Position of share price over last 52 weeks)
   </ol> 
   
-  <li> c) To collect the commodity price and foreign exchange
+  <li> To collect the commodity price and foreign exchange
   <ol>
     <li> Rubberwood
     <li> Resin
@@ -53,13 +53,17 @@ To find investment opportunity and trading signal through fundamental analysis a
   </ol>
 
 <li> Natural Language Processing (NLP) - TBC
-  <li> Footnote preparation / Remarks
+  <ol>
+    <li> Footnote preparation / Remarks
     <ol> <li> - To collect and summarize information from quarter report / analyst report </ol>
-  b) News / Forum
+    <li> News / Forum
     <ol> <li> - Sentiment Analysis </ol>
-   
-4. User Interface
-  a) Table (Statement, historical share price)
-  b) Graph (Historical Share price and the technical indicator)
-  c) Trading signal (Search and filter function)
+  </ol>
+<br>
+<li> User Interface
+  <ol>
+    <li> Table (Statement, historical share price)
+    <li> Graph (Historical Share price and the technical indicator)
+    <li> Trading signal (Search and filter function)
+  </ol>
 </ol>  
