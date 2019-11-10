@@ -2,9 +2,12 @@
 To find investment opportunity and trading signal through fundamental analysis and technical analysis in Bursa Malaysia (KLSE)
 
 # Issue Tracker
+
+<ol>
 1. Fundamental Analysis \n
   a) To collect financial statement for both Annual and Quarter frequency
   b) To generate the overview of company performance using statistical score: 
+  </ol>
     i) Beneish M Score, 
     ii) Ohlson O Score, 
     iii) Altman Z Score, 
