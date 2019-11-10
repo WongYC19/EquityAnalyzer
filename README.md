@@ -37,7 +37,8 @@ To find investment opportunity and trading signal through fundamental analysis a
           </ol>
   
         <li> To update the existing data file rather than replacing it <br>
-        
+    </ol>
+    
     <li> <b> Technical Analysis </b> <br>  
         <ol>
           <li> To collect historical data from yahoo API
