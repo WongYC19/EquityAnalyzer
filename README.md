@@ -37,6 +37,7 @@ To find investment opportunity and trading signal through fundamental analysis a
             </ol>          
         <li> To update the existing data file rather than replacing it
     </ol>    
+    <br/>
     <li> <b> Technical Analysis </b> <br/>
     <ol>
     <br/>
@@ -48,6 +49,7 @@ To find investment opportunity and trading signal through fundamental analysis a
                 <li> Regression - Entry Price / Stop loss (Buy/Sell at what price?) <br/>
             </ol>
     </ol> 
+    <br/>
     <li> <b> Natural Language Processing (NLP) - TBC </b>    
     <ol>
     <br/>
@@ -56,6 +58,7 @@ To find investment opportunity and trading signal through fundamental analysis a
         <li> News / Forum
             - Sentiment Analysis <br/>
     </ol>       
+    <br/>
     <li> <b> User Interface </b>    
     <ol>
     <br/>        
