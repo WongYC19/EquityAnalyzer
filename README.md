@@ -4,7 +4,7 @@ To find investment opportunity and trading signal through fundamental analysis a
 # Issue Tracker
 
 <ol>
-<li> Fundamental Analysis
+  <li> <b> Fundamental Analysis </b>
   
   <ol>
     <li> To collect financial statement for both Annual and Quarter frequency
@@ -44,7 +44,7 @@ To find investment opportunity and trading signal through fundamental analysis a
  </ol>
 
 <br>
-<li> Technical Analysis
+<li> <b> Technical Analysis </b>
   <ol>
     <li> To collect historical data from yahoo API
     <li> Create and define technical indicator
@@ -56,7 +56,7 @@ To find investment opportunity and trading signal through fundamental analysis a
   </ol>
 
 <br>
-<li> Natural Language Processing (NLP) - TBC
+<li> <b> Natural Language Processing (NLP) - TBC </b>
   <ol>
     <li> Footnote preparation / Remarks
     <ol> <li> - To collect and summarize information from quarter report / analyst report </ol>
@@ -65,7 +65,7 @@ To find investment opportunity and trading signal through fundamental analysis a
   </ol>
   
 <br>
-<li> User Interface
+<li> <b> User Interface </b>
   <ol>
     <li> Table (Statement, historical share price)
     <li> Graph (Historical Share price and the technical indicator)
