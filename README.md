@@ -3,7 +3,8 @@ To find investment opportunity and trading signal through fundamental analysis a
 
 # Issue Tracker
 <ol>
-    <li> <b> Fundamental Analysis </b> <br/>
+    <li> <b> Fundamental Analysis </b>
+    <br/>
     <ol>
         <li> To collect financial statement for both Annual and Quarter frequency
         <li> To generate the overview of company performance using statistical score:
@@ -34,10 +35,11 @@ To find investment opportunity and trading signal through fundamental analysis a
                 <li> Steel
                 <li> Fearix
             </ol>          
-        <li> <br/> To update the existing data file rather than replacing it <br/>
+        <li> To update the existing data file rather than replacing it
     </ol>    
     <li> <b> Technical Analysis </b> <br/>
     <ol>
+    <br/>
         <li> To collect historical data from yahoo API
         <li> Create and define technical indicator        
         <li> Modelling        
@@ -46,14 +48,16 @@ To find investment opportunity and trading signal through fundamental analysis a
                 <li> Regression - Entry Price / Stop loss (Buy/Sell at what price?) <br/>
             </ol>
     </ol> 
-    <li> <b> Natural Language Processing (NLP) - TBC </b> <br/>
+    <li> <b> Natural Language Processing (NLP) - TBC </b>
+    <br/>
     <ol>
         <li> Footnote preparation / Remarks
             - To collect and summarize information from quarter report / analyst report
         <li> News / Forum
             - Sentiment Analysis <br/>
     </ol>       
-    <li> <b> User Interface </b> <br/>
+    <li> <b> User Interface </b>
+    <br/>        
     <ol>
         <li> Table (Statement, historical share price)
         <li> Graph (Historical Share price and the technical indicator)
