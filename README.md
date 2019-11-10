@@ -9,14 +9,14 @@ To find investment opportunity and trading signal through fundamental analysis a
   b) To generate the overview of company performance using statistical score: 
   
   <ol>        
-    i) Altman Z Score, 
-    ii) Ohlson O Score (Extended from Z-Score, Likelihood to default in 2 years)
-    iii) Beneish M Score (8) - Profit Manipulation, 
-    iv) Piotroski F Score (Determine strength of a firm's financial position, avoid value traps)
-    v) EBIT / EV (Alternative to PE ratio, take into account of debt)
-    vi) Net Cash (Net cash position of a company)
-    vii) Market Capitalization (Market value of company outstanding shares)
-    viii) 52W Range vs Current Price (Position of share price over last 52 weeks)
+    <li> i) Altman Z Score, 
+    <li> ii) Ohlson O Score (Extended from Z-Score, Likelihood to default in 2 years)
+    <li> iii) Beneish M Score (8) - Profit Manipulation, 
+    <li> iv) Piotroski F Score (Determine strength of a firm's financial position, avoid value traps)
+    <li> v) EBIT / EV (Alternative to PE ratio, take into account of debt)
+    <li> vi) Net Cash (Net cash position of a company)
+    <li> vii) Market Capitalization (Market value of company outstanding shares)
+    <li> viii) 52W Range vs Current Price (Position of share price over last 52 weeks)
   </ol>  
   c) To collect the commodity price and foreign exchange
     i) Rubberwood
