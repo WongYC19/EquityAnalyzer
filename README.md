@@ -4,7 +4,8 @@ To find investment opportunity and trading signal through fundamental analysis a
 # Issue Tracker
 
 <ol>
-1. Fundamental Analysis \n
+1. Fundamental Analysis
+  <ol>
   a) To collect financial statement for both Annual and Quarter frequency
   b) To generate the overview of company performance using statistical score: 
   
@@ -35,7 +36,7 @@ To find investment opportunity and trading signal through fundamental analysis a
     <li>xiv) Fearix
     
   d) To update the existing data file rather than replacing it
-
+ </ol>
 2. Technical Analysis
   a) To collect historical data from yahoo API
   b) Create and define technical indicator
