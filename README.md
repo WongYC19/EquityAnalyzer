@@ -5,7 +5,7 @@ To find investment opportunity and trading signal through fundamental analysis a
 
 <ol>
   <li> <b> Fundamental Analysis </b>
-  
+  <br>
   <ol>
     <li> To collect financial statement for both Annual and Quarter frequency
     <li> To generate the overview of company performance using statistical score:     
@@ -21,27 +21,27 @@ To find investment opportunity and trading signal through fundamental analysis a
       <li> 52W Range vs Current Price (Position of share price over last 52 weeks)
   </ol> 
   
-  <li> To collect the commodity price and foreign exchange
-  <br>
-  <ol>
-    <li> Rubberwood
-    <li> Resin
-    <li> Gold
-    <li> Lumber
-    <li> USD/MYR
-    <li> Baltic dry
-    <li> Crude oil
-    <li> Palm oil
-    <li> Lumber
-    <li> Sugar
-    <li> Poultry
-    <li> Corn
-    <li> Steel
-    <li> Fearix
-  </ol>
+    <li> To collect the commodity price and foreign exchange
+    <br>
+    <ol>
+      <li> Rubberwood
+      <li> Resin
+      <li> Gold
+      <li> Lumber
+      <li> USD/MYR
+      <li> Baltic dry
+      <li> Crude oil
+      <li> Palm oil
+      <li> Lumber
+      <li> Sugar
+      <li> Poultry
+      <li> Corn
+      <li> Steel
+      <li> Fearix
+    </ol>
   
-  <li> To update the existing data file rather than replacing it
- </ol>
+    <li> To update the existing data file rather than replacing it
+  </ol>
 
 <br>
 <li> <b> Technical Analysis </b>
@@ -57,6 +57,7 @@ To find investment opportunity and trading signal through fundamental analysis a
 
 <br>
 <li> <b> Natural Language Processing (NLP) - TBC </b>
+<br>
   <ol>
     <li> Footnote preparation / Remarks
     <ol> <li> - To collect and summarize information from quarter report / analyst report </ol>
@@ -66,6 +67,7 @@ To find investment opportunity and trading signal through fundamental analysis a
   
 <br>
 <li> <b> User Interface </b>
+<br>
   <ol>
     <li> Table (Statement, historical share price)
     <li> Graph (Historical Share price and the technical indicator)
