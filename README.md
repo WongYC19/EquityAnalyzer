@@ -6,8 +6,8 @@ To find investment opportunity and trading signal through fundamental analysis a
     <li> <b> Fundamental Analysis </b>
     <ol>
     <br/>
-        <li> To collect financial statement for both Annual and Quarter frequency
-        <li> To generate the overview of company performance using statistical score:
+        <li> To collect financial statement for both Annual and Quarter frequency (Complete)
+        <li> To generate the overview of company performance using statistical score: (Testing)
         <ol>
             <li> Altman Z Score (Simple Credit Strength test)
             <li> Ohlson O Score (Extended from Z-Score, Likelihood to default in 2 years)
@@ -18,7 +18,7 @@ To find investment opportunity and trading signal through fundamental analysis a
             <li> Market Capitalization (Market value of company outstanding shares)
             <li> 52W Range vs Current Price (Position of share price over last 52 weeks) 
         </ol>        
-        <li> To collect the commodity price and foreign exchange        
+        <li> To collect the commodity price and foreign exchange  (Pending)      
             <ol>
                 <li> Rubberwood
                 <li> Resin
@@ -35,10 +35,12 @@ To find investment opportunity and trading signal through fundamental analysis a
                 <li> Steel
                 <li> Fearix
             </ol>          
-        <li> To update the existing data file rather than replacing it
+        <li> To update the existing data file rather than replacing it (Testing)
+        <li> To detect the needs of update for certain companies (Pending)
+        <li> To perform multiprocessing/multithreading to extract financial statement/writing to excel files (Pending)
     </ol>    
     <br/>
-    <li> <b> Technical Analysis </b> <br/>
+    <li> <b> Technical Analysis </b> <br/> (Pending)
     <ol>
     <br/>
         <li> To collect historical data from yahoo API
